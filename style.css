@@ -1,0 +1,21 @@
+#massage {
+	width: 300px;
+	height: 100px;
+}
+
+#memos {
+	margin-left: 350px;
+}
+
+#controls {
+	width: 350px;
+	float: left;
+}
+
+.memo {
+	width: 208px;
+	height: 203px;
+	background-image: url('memo.png');
+	padding: 64px 46px 57px 46px;
+	float: left;
+}
